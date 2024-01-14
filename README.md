@@ -61,5 +61,14 @@ Think of a thing that the human mind can do that LLM "Cannot", then implement it
 
 But most importantly: Smaller models each trained specifically to do the job of one of the modules will greatly increase quality, and decrease cost and latency.
 
+## Installing dependencies:
+`sudo apt install libcairo2-dev`
+`sudo apt install libgirepository1.0-dev`
+and then:
+`pip install -r requirements.txt`
+
+## Running
+`python AGI-1.py`
+
 Contact: 
 pedroschindler@gmail.com

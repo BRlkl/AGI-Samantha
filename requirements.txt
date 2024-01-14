@@ -1,0 +1,8 @@
+Flask==3.0.0
+flask_socketio==5.3.6
+openai==1.7.2
+playsound==1.2.2
+Requests==2.31.0
+tenacity==8.2.3
+pygobject==3.44.0
+SpeechRecognition==3.10.1

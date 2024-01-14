@@ -20,7 +20,7 @@ Speak or type "Stop" to stop the agent and save its state.
 
 Be sure to plug in OpenAi API and ElevenLabs API (If you want TTS).
 
-Keep in mind that as it currenly stands, the system is relatively slow and very expensive
+Keep in mind that as it currently stands, the system is relatively slow and very expensive
 
 ## How it works:
 
